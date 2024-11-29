@@ -22,7 +22,8 @@ p{
 .cs ul li {
     display: inline; 
     margin-right: 10px; 
-    font-size: 1em;
+    text-align: center;
+    font-size: 1.5em;
     overflow-wrap: break-word; 
 
 }
